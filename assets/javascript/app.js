@@ -25,7 +25,7 @@ class _app {
   brandDescription = [
     "de_stroyers",
     "pro roblox players",
-    "mm ddosers",
+    "localhost ddosers",
     "trashtalkers",
     "skeet fanboys",
     "hack vs hack team"
