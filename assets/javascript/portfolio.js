@@ -83,7 +83,7 @@ $(document).ready(() => {
     app.shouldIgnoreVideo = true;
   }
 
-  app.titleChanger(['uwusense', 'uwusense.', 'uwusense.c', 'Vez', 'mannin', '=', 'uwusense.club', 'Song name: KUSO GVKI - Cinnamon (feat. Apfel) (splash! Mag Premiere)']);
+  app.titleChanger(['uwusense', 'uwusense.', 'uwusense.c', 'uwusense.cl', 'uwusense.clu', 'uwusense.club', 'uwusense.clu', 'uwusense.cl', 'uwusense.c', 'uwusense.']);
   app.iconChanger(['assets/icons/roses/rose1.jpg', 'assets/icons/roses/rose2.jpg', 'assets/icons/roses/rose3.jpg', 'assets/icons/roses/rose4.jpg', 'assets/icons/roses/rose5.jpg', 'assets/icons/roses/rose6.jpg', 'assets/icons/roses/rose7.jpg', 'assets/icons/roses/rose8.jpg', 'assets/icons/roses/rose1.jpg']);
 });
 
