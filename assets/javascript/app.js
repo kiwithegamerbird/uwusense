@@ -11,8 +11,25 @@ class _app {
   skippedIntro = false;
   backgroundToggler = false;
   shouldIgnoreVideo = false;
-  effects = ['bounce', 'flash', 'pulse', 'rubberBand', 'shake', 'swing', 'tada', 'wobble', 'jello'];
-  brandDescription = ['de_stroyers', 'pro roblox players', 'mm ddosers', 'trashtalkers', 'skeet fanboys', 'hack vs hack team'];
+  effects = [
+    "bounce",
+    "flash",
+    "pulse",
+    "rubberBand",
+    "shake",
+    "swing",
+    "tada",
+    "wobble",
+    "jello"
+  ];
+  brandDescription = [
+    "de_stroyers",
+    "pro roblox players",
+    "mm ddosers",
+    "trashtalkers",
+    "skeet fanboys",
+    "hack vs hack team"
+  ];
 
   titleChanger = (text, delay) => {
     if (!text) return;
@@ -36,13 +53,15 @@ class _app {
 
     setInterval(() => {
       if (counter < urls.length) {
-        const link = document.querySelector("link[rel*='icon']") || document.createElement('link');
+        const link =
+          document.querySelector("link[rel*='icon']") ||
+          document.createElement("link");
 
-        link.type = 'image/x-icon';
-        link.rel = 'shortcut icon';
+        link.type = "image/x-icon";
+        link.rel = "shortcut icon";
         link.href = urls[counter];
 
-        document.getElementsByTagName('head')[0].appendChild(link);
+        document.getElementsByTagName("head")[0].appendChild(link);
       } else counter = 0;
 
       ++counter;
