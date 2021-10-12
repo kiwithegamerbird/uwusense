@@ -46,16 +46,24 @@ $(document).ready(() => {
       link: '76561198960258192',
     },
     {
-      name: 'loljuxd',
-      link: '76561198016198032',
+      name: 'lxrdrob',
+      link: '76561198406622390',
     },
     {
-      name: 'Lost',
-      link: '76561199079530557',
+      name: 'kiwialt1',
+      link: '76561199045845335',
     },
     {
-      name: 'mannin',
-      link: '76561197975672336',
+      name: 'kiwialt2',
+      link: '76561199121372785',
+    },
+    {
+      name: 'kiwialt3',
+      link: '76561198964744174',
+    },    
+    {
+      name: 'kiwialt4',
+      link: '76561198145398073',
     },
   ];
 
@@ -75,7 +83,7 @@ $(document).ready(() => {
     app.shouldIgnoreVideo = true;
   }
 
-  app.titleChanger(['Lummit', 'Neso', 'loljuxd', 'Vez', 'mannin', '=', 'uwusense.club', 'Song name: KUSO GVKI - Cinnamon (feat. Apfel) (splash! Mag Premiere)']);
+  app.titleChanger(['uwusense', 'uwusense.', 'uwusense.c', 'Vez', 'mannin', '=', 'uwusense.club', 'Song name: KUSO GVKI - Cinnamon (feat. Apfel) (splash! Mag Premiere)']);
   app.iconChanger(['assets/icons/roses/rose1.jpg', 'assets/icons/roses/rose2.jpg', 'assets/icons/roses/rose3.jpg', 'assets/icons/roses/rose4.jpg', 'assets/icons/roses/rose5.jpg', 'assets/icons/roses/rose6.jpg', 'assets/icons/roses/rose7.jpg', 'assets/icons/roses/rose8.jpg', 'assets/icons/roses/rose1.jpg']);
 });
 
