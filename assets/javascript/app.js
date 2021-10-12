@@ -12,7 +12,7 @@ class _app {
   backgroundToggler = false;
   shouldIgnoreVideo = false;
   effects = ['bounce', 'flash', 'pulse', 'rubberBand', 'shake', 'swing', 'tada', 'wobble', 'jello'];
-  brandDescription = ['11 years old kids team', 'pro roblox players', 'xane ddosers', 'trashtalkers', 'esoterik fanboys', 'hack vs hack team'];
+  brandDescription = ['de_stroyers', 'pro roblox players', 'mm ddosers', 'trashtalkers', 'skeet fanboys', 'hack vs hack team'];
 
   titleChanger = (text, delay) => {
     if (!text) return;
