@@ -38,7 +38,7 @@ const mobileAndTabletCheck = () => /Android|webOS|iPhone|iPad|iPod|BlackBerry|IE
 $(document).ready(() => {
   const links = [
     {
-      name: 'Lummit',
+      name: 'kiwi',
       link: '76561197960276740',
     },
     {
