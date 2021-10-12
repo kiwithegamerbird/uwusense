@@ -32,7 +32,7 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
 const ipgeolocation = 'https://api.ipgeolocation.io/ipgeo?apiKey=1785ed53312f42c7b5ef89f65c3faa1a';
 
 const timeouts = [];
-
+76561199098874239
 const mobileAndTabletCheck = () => /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
 
 $(document).ready(() => {
@@ -48,6 +48,10 @@ $(document).ready(() => {
     {
       name: 'lxrdrob',
       link: '76561198406622390',
+    },
+    {
+      name: 'Raica',
+      link: '76561199098874239',
     },
     {
       name: 'kiwialt1',
