@@ -43,7 +43,7 @@ $(document).ready(() => {
     },
     {
       name: 'Geralt',
-      link: '76561198193201687',
+      link: '76561198960258192',
     },
     {
       name: 'loljuxd',
